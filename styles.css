@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+header {
+    text-align: center;
+}
+
+body {
+    margin: 8px;
+    display: block;
+    font-family: Helvita, sans-serif;
+    width: 100%;
+    background-color: lavender;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+section {
+    
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 36px;
+   text-align: center;
+}
